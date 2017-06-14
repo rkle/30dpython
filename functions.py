@@ -25,8 +25,8 @@ def list_filter(the_list):
 
 	return int_list, str_list, other_int_list, other_str_list
 '''
-#seperate integers and strings
 def list_filter(the_list):
+	'''seperate integers and strings'''
 	int_list = []
 	str_list = []
 	other_list = []
